@@ -18,3 +18,6 @@ export class RecipeListComponent implements OnInit {
   }
 
 }
+
+
+// LIST
